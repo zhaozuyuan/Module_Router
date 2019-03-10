@@ -1,0 +1,12 @@
+apply plugin: 'java-library'
+
+dependencies {
+    implementation fileTree(include: ['*.jar'], dir: 'libs')
+    implementation project(':router_annotation')
+    //代码生成工具
+    implementation 'com.squareup:javapoet:1.9.0'
+    implementation 'com.google.auto.service:auto-service:1.0-rc2'
+}
+
+sourceCompatibility = "7"
+targetCompatibility = "7"

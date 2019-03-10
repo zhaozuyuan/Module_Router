@@ -1,0 +1,6 @@
+    ------------Router Table----------
+
+ App壳	Scheme: router	Module: app	Name: app
+ Uri: router://app/app
+
+

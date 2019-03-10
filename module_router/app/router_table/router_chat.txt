@@ -1,0 +1,6 @@
+    ------------Router Table----------
+
+ home组件的主活动	Scheme: router	Module: chat	Name: chat_activity
+ Uri: router://chat/chat_activity
+
+

@@ -1,0 +1,1 @@
+include ':app', ':lib_common', ':lib_home', ':lib_chat', ':router_go', ':router_annotation', ':router_compiler'
